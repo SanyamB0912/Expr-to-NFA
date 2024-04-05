@@ -1,4 +1,4 @@
-mport graphviz
+import graphviz
 
 def main():
     reg = input().strip()
