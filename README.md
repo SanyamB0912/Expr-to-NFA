@@ -4,17 +4,12 @@ This project focuses on converting regular expressions into Non-deterministic Fi
 
 
 Done by:
---------------------------------------------
-Roll Number      | Name                     |
---------------------------------------------
-CB.EN.U4CSE22029 | Manasa R                 |
---------------------------------------------
-CB.EN.U4CSE22039 | Rohan Prkash N           |
--------------------------------------------- 
-CB.EN.U4CSE22044 | Sanyam Bhardwaj          |
---------------------------------------------
-CB.EN.U4CSE22045 | Sriya Simran Dash        |
--------------------------------------------- 
-CB.EN.U4CSE22065 | Katari Amrutha Varshini  |
---------------------------------------------
+| Roll Number     | Name                    |
+|-----------------|-------------------------|
+| CB.EN.U4CSE22029 | Manasa R                |
+| CB.EN.U4CSE22039 | Rohan Prkash N          |
+| CB.EN.U4CSE22044 | Sanyam Bhardwaj         |
+| CB.EN.U4CSE22045 | Sriya Simran Dash       |
+| CB.EN.U4CSE22065 | Katari Amrutha Varshini |
+
 
